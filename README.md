@@ -1,4 +1,4 @@
-# The Wild oasis Hotel
+# The Wild Oasis Hotel
 ## Intoduction 
 Developed a hotel system dashboard that enables hotel employees to efficiently manage their hotel operations.
 ### Key features :
@@ -14,7 +14,7 @@ Developed a hotel system dashboard that enables hotel employees to efficiently m
   <li><b> Dark Mode </b>-> Offers a user-friendly dark theme for better visual comfort.</li>
 </ol>
 
-## Teachnical skills
+## Technical skills
  #### Frontend : React.js, React Query, Styled Components, Recharts, React Hook Form.
  #### Backend : supabase   
 
